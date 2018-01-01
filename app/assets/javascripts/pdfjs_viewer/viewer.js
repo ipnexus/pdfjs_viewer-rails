@@ -6448,6 +6448,7 @@ var pdfjsWebLibs;
    var HOSTED_VIEWER_ORIGINS = [
     'null',
     'http://lvh.me:3000',
+    'http://en.lvh.me:3000',
     'https://patentfield.com',
     'https://en.patentfield.com',
     'http://mozilla.github.io',
